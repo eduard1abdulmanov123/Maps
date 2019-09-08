@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+
+    <string name="not_permission">Не полученно разрешение</string>
+    <string name="address_not_found">Адрес не найден</string>
+    <string name="current_location_not_found">Текущее местоположение не определенно</string>
+</resources>
